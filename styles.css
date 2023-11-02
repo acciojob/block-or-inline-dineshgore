@@ -1,2 +1,7 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */ .block {
+    display: block;
+  }
+  .inline {
+    display: inline;
+  }
